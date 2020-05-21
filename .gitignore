@@ -1,3 +1,6 @@
 *.o
 hpsahba
 hpsahba.8
+hpsa.c
+hpsa.h
+hpsa_cmd.h
